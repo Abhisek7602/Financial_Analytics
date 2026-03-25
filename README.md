@@ -1,6 +1,6 @@
 # 📊 Portfolio Stress Testing & Optimization using Python & Tableau
 
-![Bank Loan Report Banner](https://github.com/Abhisek7602/Bank_Loan_Report_Analysis/blob/main/bank%20image.jpg)
+![](https://github.com/Abhisek7602/Financial_Analytics/blob/main/Screenshot%202026-01-31%20095712.png)
 
 This project was completed as part of the Infotact Data Analytics Internship (Month-2 Project).
 
