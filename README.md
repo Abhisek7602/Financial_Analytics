@@ -1,5 +1,7 @@
 # 📊 Portfolio Stress Testing & Optimization using Python & Tableau
 
+![Bank Loan Report Banner](https://github.com/Abhisek7602/Bank_Loan_Report_Analysis/blob/main/bank%20image.jpg)
+
 This project was completed as part of the Infotact Data Analytics Internship (Month-2 Project).
 
 The objective of the project is to analyze financial market data, measure portfolio risk, simulate future outcomes, optimize asset allocation, and build an interactive dashboard for stress testing using real-world stock data.
