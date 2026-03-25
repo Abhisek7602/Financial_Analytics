@@ -108,14 +108,14 @@ Source: NSE / Yahoo Finance (public financial data)
 
 - Jupyter Notebook with complete analysis
 - Tableau Dashboard (interactive)
-- Project Report PDF
+- Project Report PPT
 - GitHub Repository
 
 ---
 
 ## 👤 Author
 
-**Sumit Sharma**  
+**Abhisek Nayak**  
 Data Analytics Intern – Infotact
 
 ---
